@@ -1,0 +1,26 @@
+body{
+  background-color: white;
+}
+.container{
+  background-color: #FF865E ;
+  width:auto;
+
+}
+.info{
+  position: relative;
+  left:500px;
+  bottom:100px;
+  font-family: sans-serif;
+
+}
+.webD{
+
+}
+.Graphics{
+  position: relative;
+
+}
+.SocialM{
+  position: relative;
+
+}
